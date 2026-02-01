@@ -1,4 +1,4 @@
-# Hi, I'm Mozarda 👋 
+# Hi, I'm Moh Faza Rosyada 👋 
 ### Systems Engineer | AI & Full-stack Developer based in Japan 🇯🇵
 
 I bridge the gap between **Mechanical Engineering** and **Artificial Intelligence**. I specialize in building high-performance **Surrogate Models** that accelerate complex physics simulations.

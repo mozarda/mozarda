@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mozarda 👋 
+### Systems Engineer | AI & Full-stack Developer based in Japan 🇯🇵
 
-<!--
-**mozarda/mozarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between complex engineering simulations and user-friendly web interfaces. Currently working as a full-time Systems Engineer and specializing in **Surrogate Modeling**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack & Expertise
+- **AI/ML:** PyTorch, Surrogate Modeling, Data Science (Python)
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Backend:** FastAPI, Flask, PostgreSQL
+- **DevOps:** Docker, GitHub Actions, System Design
+
+---
+
+## 🌐 Languages
+- **English:** Professional Working Proficiency
+- **Japanese:** JLPT N3 (Technical communication & documentation OK)
+- **[Your Native Language]:** Native
+
+---
+
+## 📈 What I'm working on
+- 🚀 Building a Full-stack Surrogate Model Dashboard (Coming soon)
+- 📝 Writing technical articles on Surrogate Modeling on Zenn.dev
+
+---
+
+## 📫 Contact
+- **LinkedIn:** [Link to your profile]
+- **Wantedly:** [Link to your profile]

@@ -1,5 +1,10 @@
 # Hi, I'm Moh Faza Rosyada 👋 
 ### Systems Engineer | AI & Full-stack Developer based in Japan 🇯🇵
+<p align="left">
+  <img src="https://img.shields.io/badge/JLPT-N3-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-Railway%20%26%20Manufacturing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Expertise-Surrogate%20Modeling-red?style=for-the-badge" />
+</p>
 
 I bridge the gap between **Mechanical Engineering** and **Artificial Intelligence**. I specialize in building high-performance **Surrogate Models** that accelerate complex physics simulations.
 
@@ -40,4 +45,3 @@ I bridge the gap between **Mechanical Engineering** and **Artificial Intelligenc
 - **LinkedIn:** [www.linkedin.com/in/moh-faza-rosyada-74770995](https://www.linkedin.com/in/moh-faza-rosyada-74770995)
 
 ---
-
